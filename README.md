@@ -6,7 +6,7 @@ nvcc *
 <br>
 Onde * é o nome do arquivo.
 <br>
-Para compilar, fazer passar as entradas como argumentos, como por exemplo:
+Para executar, passar as entradas como argumentos, como por exemplo:
 <br>
 ./a.out 1 662143
 <br>
